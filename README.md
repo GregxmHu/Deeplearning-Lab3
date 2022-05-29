@@ -1,5 +1,5 @@
-# deeplearning.disign.1
-This repo is for the first assignment in the course: **Deep Learning Course Design**.
+# deeplearning.lab.3
+This repo is for the third lab in the course: **Deep Learning Course Design**.
 # Prerequisites
 ## Datasets 
 * Download the original datasets in this [page](https://www.kaggle.com/competitions/dog-breed-identification/data)
